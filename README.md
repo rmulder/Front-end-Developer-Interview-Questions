@@ -1,4 +1,10 @@
-#Front-end Job Interview Questions
+# STOP
+
+If you're about to be interviewed by me, read no further. That's cheating. If you do, you should feel ashamed of yourself. Please represent yourself honestly. If you don't, this arrangement wont end well for either of us.
+
+If you've already been interviewed by me, please study up on these questions so you can learn. Learning is good. :-) Have a nice day!
+
+# Front-end Job Interview Questions
 
 This file contains a number of front-end interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
 
